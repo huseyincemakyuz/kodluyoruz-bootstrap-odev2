@@ -32,7 +32,7 @@ input.empty {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  border: 2px solid rgb(238, 39, 82);
+  border: 50px solid rgb(238, 39, 82);
   margin-right: 7px;
 }
 
@@ -69,6 +69,5 @@ div.sticky {
   margin-right: 6px;
   vertical-align: baseline;
 }
-
 
 
